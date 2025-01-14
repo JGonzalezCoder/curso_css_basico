@@ -1,0 +1,19 @@
+Propiedades basicas de texto.
+
+font-size: para el tamano de letra.
+
+font-style: (normal | italic) 
+
+font-weight: (normal | bold | numero)
+
+text-align: (left | center | right | justify)
+
+line-height: altura de linea;
+
+text-transform: (uppercase | lowercase | capitalize)
+
+text-decoration: (underline | line-trhough | none)
+
+letter-spacing: espaciado de letra.
+
+word-spacing: espaciado de palabra.
