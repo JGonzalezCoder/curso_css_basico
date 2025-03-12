@@ -1,0 +1,13 @@
+Unidades de medida: em y rem
+
+	em: Tamano de la "M" (significado historico).
+	
+	rem:Tamano de la "M" respecto a la raiz (significado historico).
+	
+	rem: Es el tamano de la fuente en la raiz (:root) y este tamano no cambia nunca, salvo que se sobrescriba en la raiz.
+	
+	em: Es el porcentaje del tamano de fuente del padre mas cercano.
+	
+	1em = 100%
+	0.5em = 50%
+	1.5em = 150%

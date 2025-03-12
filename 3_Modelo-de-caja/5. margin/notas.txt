@@ -1,0 +1,4 @@
+margin
+
+	Sirve para definir el margen.
+	Es la distancia entre el elemento y los elementos externos.

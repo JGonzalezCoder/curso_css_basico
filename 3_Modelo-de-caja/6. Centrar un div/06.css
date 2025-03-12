@@ -1,0 +1,16 @@
+.block{
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+/* Centrado horizontal de elemento de bloque*/
+.block{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Centrado horizontal de elemento de linea*/
+.container{
+	text-align: center;
+}

@@ -1,0 +1,14 @@
+*, *::before, *::after{
+	box-sizing: border-box;
+}
+
+.content{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin-inline-end: 50px;
+	margin-block-start: 50px;
+	direction: rtl;
+	writing-mode:vertical-lr;
+	background: yellow;
+}

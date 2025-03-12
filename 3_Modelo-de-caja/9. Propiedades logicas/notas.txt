@@ -1,0 +1,11 @@
+Propiedades fisica:
+	- top
+	- right
+	- bottom
+	- left
+	
+Propeidades logicas:
+	- block-start
+	- block-end
+	- inline-start
+	- inline-end

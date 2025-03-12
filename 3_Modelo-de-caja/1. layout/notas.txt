@@ -1,0 +1,20 @@
+El layout model
+
+	El algoritmo del navegador para entender  la geometria de cada elemento HTML luego de procesar el CSS:
+	- El tamano.
+	- La posicion.
+	- La separacion con otros elementos.
+
+* Box model
+* Position
+* Flex
+* Grid
+
+Usamos mucho el layout model para el RWD.
+
+Todos los elementos en HTML son rectangulos.
+
+Estos rectangulos son de dos tipos:
+
+	- Bloque.
+	- Linea.
