@@ -1,0 +1,7 @@
+border: <width> <style> <color>
+
+"border" es un shorthand para tres propiedades:
+
+	- border-width
+	- border-style: solid | dashed | dotted | double
+	- border-color
