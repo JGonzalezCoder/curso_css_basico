@@ -1,0 +1,6 @@
+box-shadow:
+	h: movimiento horizontal
+	v: movimiento vertical.
+	blur: difuminado (que tan borrosa es la sombra).
+	spred: es que tanto crece o se comprime la sombra en su cuatro lados.
+	color | inset
