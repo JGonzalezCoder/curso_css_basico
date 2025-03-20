@@ -1,0 +1,15 @@
+Selectores de atributos
+
+	Se usan para seleccionar  un elemento en funcion de un atributo cualquiera.
+	
+	[atributo="valor"] {
+		tu css de siempre.
+	}
+	
+Tambien puedo usar comodines para encontrar un atributo sin especificarlo por completo.
+
+Comienza con (^) [atributo^="valor"]
+
+Comienza con ($) [atributo$="valor"]
+
+Comienza con (*) [atributo*="valor"]

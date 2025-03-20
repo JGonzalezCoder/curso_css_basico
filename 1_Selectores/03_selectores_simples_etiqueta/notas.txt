@@ -1,0 +1,5 @@
+Selectores simples: de etiquetas.
+
+	Son la misma etiqueta HTML.
+	
+	NOTA: son mala practica.

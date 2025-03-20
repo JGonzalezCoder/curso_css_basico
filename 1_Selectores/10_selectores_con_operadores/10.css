@@ -1,0 +1,15 @@
+form * {
+	color: red;
+}
+
+form > [type="text"]:hover {
+	border: 1px solid red;
+}
+
+[type="text"] + [type="password"]:hover {
+	border: 5px solid blue;
+}
+
+[type="text"] ~ input:hover {
+	border: 5px solid green;
+}

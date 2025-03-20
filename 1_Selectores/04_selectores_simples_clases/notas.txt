@@ -1,0 +1,3 @@
+Selectores simples: de clases.
+
+	Se peuden reutilizar.

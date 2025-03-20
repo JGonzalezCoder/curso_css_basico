@@ -1,0 +1,12 @@
+Selectores
+
+	Seleccionan a que elementos del HTML se le van a aplicar los estilos.
+	
+Tipos de selectores
+
+	1. Simples(una palabra).
+	2. Compuestos (mas de una palabra).
+	3. Con operadores (+ > *).
+	4. De atributos.
+	-----------------------------------
+	5. Pseudo-clases y Pseud-elementos.

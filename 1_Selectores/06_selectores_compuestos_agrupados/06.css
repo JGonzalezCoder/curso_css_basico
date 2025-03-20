@@ -1,0 +1,9 @@
+.primero,
+.segundo {
+	color: green;
+	font-weight: bold;
+}
+
+.segundo {
+	font-size: 10px;
+}

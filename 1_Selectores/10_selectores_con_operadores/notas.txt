@@ -1,0 +1,9 @@
+Selectores con operadores
+
+	* : slector universal.
+	
+	> : hijo directo.
+	
+	+ : hermano directo.
+	
+	~ : hermanos siguientes.

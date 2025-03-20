@@ -1,0 +1,4 @@
+Selectores compuesto: agrupados
+
+	Combinan varios selectores.
+	Se usan para aplciar el mismo estilo en mas de un elementos.

@@ -1,0 +1,6 @@
+Selectores simples: ID
+
+	- Usan el atributo id de HTML.
+	- Se escribe #id.
+	
+	NOTA: es mala practica.
