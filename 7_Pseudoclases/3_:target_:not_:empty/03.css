@@ -1,0 +1,38 @@
+.container {
+	display: flex;
+}
+
+.container * {
+	flex: 1;
+	text-align: center;
+}
+
+p {
+	display: none;
+}
+
+p:target {
+	display: block;
+}
+
+.box {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	border-radius: 20px;
+	margin: 1rem;
+	background: red;
+	transition: all 1s;
+}
+
+.container-02:hover .box:not(:hover) {
+	opacity: 50%;
+}
+
+.box:empty {
+	background: green;
+}
+
+ul :is(a,span,sub) {
+	color: green;
+}

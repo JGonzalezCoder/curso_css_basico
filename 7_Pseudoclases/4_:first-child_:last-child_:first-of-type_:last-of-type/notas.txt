@@ -1,0 +1,6 @@
+Pseudoclases :first-child last:child :first-of-type y :last-of-type
+
+	:first-child = primer hermano por selector.
+	:last:child = ultimo hermano por selector.
+	:first-of-type = primer elemento por tipo.
+	:last-of-type = ultimo hermano por tipo.

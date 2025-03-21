@@ -1,0 +1,5 @@
+Pseudoclases
+
+	- Son selectores dinamicos o contextuales.
+	- Esto significa que su comportamiento va a depnder de las circunstancias.
+	- La notacion es con dos puntos (:).

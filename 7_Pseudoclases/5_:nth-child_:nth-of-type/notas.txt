@@ -1,0 +1,13 @@
+Pseudoclases :nth-child(), :nth-last-child(), :child-of-type() y :nth-last-of-type()
+
+	:nth-child(An+B [of S]) = selecciona un elemento contado desde el primer hermano hasta el ultimo hermano por selector.
+	
+	:nth-last-child(An+B [of S]) = selecciona un elemento contado desde el ultimo hermano hasta el primer hermano por selector.
+	
+	:child-of-type(An+B [of S]) = selecciona un elemento contado desde el primer hermano hasta el ultimo hermano por tipo.
+	
+	:nth-last-of-type(An+B [of S]) = selecciona un elemento contado desde el ultimo hermano hasta el primer hermano por tipo.
+	
+	even = par.
+	
+	odd = impar.
