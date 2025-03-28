@@ -1,0 +1,9 @@
+background-size: auto | width [height|auto] | contain | cover
+
+	auto: La imagen usa sus dimensiones naturales.
+	
+	width: Se le aplica el ancho y el navegador calcula el alto.
+	
+	contain: Agranda el fondo hasta rellenar lo mas posible el elemento, sin cortar ni deformar la imagen de fondo.
+	
+	cover: Agranda el fondo hasta rellenar el elemento, aun si debe recortar la imagen.

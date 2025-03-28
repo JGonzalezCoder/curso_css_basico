@@ -1,0 +1,9 @@
+.box {
+	height: 300px;
+	width: 400px;
+	padding: 20px;
+	border: 1px solid black;
+	background: 
+		url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCTnRjrrFlYyr0w7EXnjrxH-EUDWcvLzOFw&s) center center / 50% no-repeat, 
+		green;
+}

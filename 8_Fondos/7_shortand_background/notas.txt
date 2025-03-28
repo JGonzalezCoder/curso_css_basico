@@ -1,0 +1,1 @@
+background: image position / size repeat attachment origin clip

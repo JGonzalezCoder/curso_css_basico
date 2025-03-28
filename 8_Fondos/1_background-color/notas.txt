@@ -1,0 +1,1 @@
+background-repeat: repeat | no-repeat | repeat-y | repeat-x

@@ -1,0 +1,8 @@
+.box {
+	height: 200px;
+	width: 300px;
+	border: 1px solid black;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCTnRjrrFlYyr0w7EXnjrxH-EUDWcvLzOFw&s);
+	background-repeat: no-repeat;
+	background-size: cover;
+}

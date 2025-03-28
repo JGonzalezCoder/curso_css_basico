@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+.box {
+	height: 300px;
+	width: 400px;
+	padding: 20px;
+	border: 10px dashed yellow;
+	color: white;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCTnRjrrFlYyr0w7EXnjrxH-EUDWcvLzOFw&s);
+	background-size: cover;
+	background-repeat: no-repeat;
+	/*background-clip: border-box;*/
+	background-origin: border-box;
+}
