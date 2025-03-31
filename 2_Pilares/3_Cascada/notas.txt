@@ -1,0 +1,3 @@
+Cascada:
+
+	Significa que los estilos que vienen despues sobre-escribe a los que estan antes.

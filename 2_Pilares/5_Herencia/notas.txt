@@ -1,0 +1,5 @@
+Herencia:
+
+	significa que un elemento hereda los estilos de sus apdre o ancestro.
+
+	Asi no tengo que escribir los estilos para todos los elementos.

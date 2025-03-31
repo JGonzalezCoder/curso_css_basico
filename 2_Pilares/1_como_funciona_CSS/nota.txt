@@ -1,0 +1,5 @@
+Como funciona CSS
+
+	1. Casacada.
+	2. Especificidad.
+	3. Herencia.

@@ -1,0 +1,6 @@
+Como se calcula la especificidad
+
+	Etiqueta y pseudoelementos: 1
+	Atributos, clases y speudoclases: 10
+	Id: 100
+	Estilos en lineas: 1000

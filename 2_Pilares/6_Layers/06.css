@@ -1,0 +1,15 @@
+@layer theme;
+@layer base;
+@layer color;
+
+@layer base {
+	h1 {
+		color: red;
+	}
+}
+
+@layer theme {
+	h1 {
+		color: green;
+	}
+}
