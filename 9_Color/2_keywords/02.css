@@ -1,0 +1,18 @@
+body {
+	color: skyblue;
+}
+
+h1 {
+	display: inline-block;
+	border-bottom: 10px solid transparent;
+	background: midnightblue;
+}
+
+h1:hover {
+	border-bottom: 10px solid currentcolor;
+}
+
+span {
+	color: transparent;
+	background: transparent;
+}

@@ -1,0 +1,18 @@
+body {
+	color: hsl(240,100%,90%);
+	background: hsl(240,100%,10%);
+}
+
+h1 {
+	display: inline-block;
+	border-bottom: 1px solid transparent;
+}
+
+h1:hover {
+	border-bottom: 1px solid currentcolor;
+}
+
+span {
+	color: transparent;
+	background: transparent;
+}

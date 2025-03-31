@@ -1,0 +1,44 @@
+:root {
+	--size: 250px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: hsl(0,0%,20%);
+}
+
+.box {
+	height: var(--size);
+	width: var(--size);
+	border-radius: 50%;
+	margin: 1em auto;
+	background: 
+				radial-gradient(
+					10% 10% at 50% 25%,
+					hsl(0,0%,0%) 50%,
+					transparent 50%
+				),
+				radial-gradient(
+					10% 10% at 50% 75%,
+					hsl(0,0%,100%) 50%,
+					transparent 50%
+				),
+				radial-gradient(
+					50% 50% at 50% 25%,
+					hsl(0,0%,100%) 50%,
+					transparent 50%
+				),
+				radial-gradient(
+					50% 50% at 50% 75%,
+					hsl(0,0%,0%) 50%,
+					transparent 50%
+				),
+				linear-gradient(
+					to right,
+					hsl(0,0%,100%) 50%,
+					hsl(0,0%,0%) 50%
+				);
+}

@@ -1,0 +1,3 @@
+color de frente: propiedad color.
+
+color de fondo: propiedad background-color | background-image.

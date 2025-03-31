@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+	color: hsl(240,100%,10%);
+	background: repeating-radial-gradient(
+				hsl(0,100%,0%) 40%,
+				hsl(0,100%,100%) 60%
+	);
+}
+
+h1 {
+	display: inline-block;
+	border-bottom: 1px solid transparent;
+}
+
+h1:hover {
+	border-bottom: 1px solid currentcolor;
+}
+
+span {
+	color: transparent;
+	background: transparent;
+}

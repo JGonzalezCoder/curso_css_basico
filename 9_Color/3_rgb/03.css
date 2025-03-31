@@ -1,0 +1,18 @@
+body {
+	color: rgb(0,0,255);
+}
+
+h1 {
+	display: inline-block;
+	border-bottom: 1px solid transparent;
+	background: rgb(90 180 200 / 0.5);
+}
+
+h1:hover {
+	border-bottom: 1px solid currentcolor;
+}
+
+span {
+	color: transparent;
+	background: transparent;
+}

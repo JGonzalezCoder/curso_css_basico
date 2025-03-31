@@ -1,0 +1,24 @@
+body {
+	height: 100vh;
+	color: hsl(240,100%,10%);
+	background: linear-gradient(
+				120deg,
+				hsl(180,80%,60%) 0% 33.34%,
+				hsl(300,80%,70%) 33.34% 66.67%,
+				hsl(60,80%,50%) 66.67%
+	);
+}
+
+h1 {
+	display: inline-block;
+	border-bottom: 1px solid transparent;
+}
+
+h1:hover {
+	border-bottom: 1px solid currentcolor;
+}
+
+span {
+	color: transparent;
+	background: transparent;
+}
